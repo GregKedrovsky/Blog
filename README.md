@@ -9,3 +9,5 @@ Started studying for PenTest+ over the weekend (yesterday). I got a book ([Sybex
 - [HTB](https://www.hackthebox.com/blog/how-to-become-a-pentester) has some really cool stuff (but I'm thinking about using HTB for my next round of certs: CEH & OSCP). Can't do it all at once... so, I decided to start with TryHackMe then "graduate" to HTB if I can.
 
 Pretty cool. Very much looking forward to learning this stuff. 
+
+----
